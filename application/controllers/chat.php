@@ -5,7 +5,7 @@
  * @category PHP
  * @package  Chat 
  * @subpackage Chat
- * @author   Jonathan Xavier Ribeiro <jonathan@wemaker.com.br>
+ * @author   Jonathan Xavier Ribeiro <jonathanxribeiro@gmail.com>
  * @license  http://opensource.org/licenses/gpl-license.php GNU Public License
  * @version  1.0
  * @link     http://www.mentenova.com/chat
